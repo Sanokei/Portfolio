@@ -11,7 +11,7 @@
     src: url('fonts/Arial-Black.ttf') format('truetype');
 }
 body{
-    background-color: #fbf6ed;
+    background-color: #fffcf6;
 }
 a, a:link, a:visited, a:hover, a:active{
     text-decoration: none;
@@ -41,7 +41,7 @@ a, a:link, a:visited, a:hover, a:active{
     font-size: 4em;
     text-align: right;
     font-family: 'Cooper Black';
-    color: #e23539;
+    color: #F03139;
 }
 .section-heading::first-letter{
     font-family: 'Rich Punk';
@@ -54,10 +54,10 @@ a, a:link, a:visited, a:hover, a:active{
     height: 20px;
 }
 .yellow{
-    background-color: #f1cd30;
+    background-color: #ffe15d;
 }
 .green{
-    background-color: #25ba43;
+    background-color: #2ee152;
 }
 @media screen and (max-width:1200px){
     .project-img-container{
@@ -95,7 +95,7 @@ a, a:link, a:visited, a:hover, a:active{
 }
 
 .project-title{
-    color: #e23539;
+    color: #F03139;
     font-family: 'Arial Black';
     font-size: 30px;
 }
@@ -105,12 +105,12 @@ a, a:link, a:visited, a:hover, a:active{
     }
 }
 .project-a-tag{
-    color: #e23539;
+    color: #F03139;
     font-weight: bold;
 }
 .project-a-tag:hover{
     text-decoration: underline;
-    text-decoration-color: #e23539;
+    text-decoration-color: #F03139;
 }
 /* subtitle */
 .project-subtitle{
@@ -139,7 +139,7 @@ a, a:link, a:visited, a:hover, a:active{
     margin-right: 10px;
     font-family: 'Inter';
     font-weight: 800;
-    color: #134764;
+    color: #1f75a3;
 }
 
 .project-link > a,
@@ -156,18 +156,18 @@ a, a:link, a:visited, a:hover, a:active{
     padding-right: 8px;
     margin-bottom: 3px;
     border-radius:10px;
-    border-color: #134764;
+    border-color: #1f75a3;
 
     /* text */
     font-weight: 700;
     font-size: 20px;
     font-family: 'Inter';
-    color: #134764;
+    color: #1f75a3;
 }
 
 /* line break */
 hr{
-    background-color: #134764;
+    background-color: #1f75a3;
     height: 2px;
     margin-top: 15px;
     margin-bottom: 15px;
